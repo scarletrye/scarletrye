@@ -10,6 +10,7 @@ Technologies i've been working
   </a>
 </p>
 <hr>
+
 ### 🧠 What i'm learning?
 Currently, i'm in internship in where i'm learning about this technologies.
 <p align="left">
