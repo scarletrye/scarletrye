@@ -1,6 +1,6 @@
 ## Hello, I'm Scarlet 👋
 ### I'm a developer eager to make a fun projects!
-Programming is really interesting, and with that curiosity, i've been working on projects for applications web.
+Programming is really interesting, and with that curiosity, I've been working on projects for web applications.
 
 📭 **Let's connect** <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/scarlet-reyes-moreno-72229922b/) 
@@ -8,7 +8,7 @@ Programming is really interesting, and with that curiosity, i've been working on
 
 
 ### 🔧Skills
-Technologies i've been working.
+Technologies I've been working with.
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,kotlin,php,androidstudio,unity" />
@@ -16,17 +16,17 @@ Technologies i've been working.
 </p>
 <hr>
 
-### 🧠What i'm learning?
-Currently, i'm in internship in where i'm learning about this technologies.
+### 🧠What am I learning?
+Currently, I'm in an internship where i'm learning about these technologies.
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,mongodb,tailwind,ts" />
   </a>
 </p>
- Also with my partners are developing a project about music.
+I'm also working on project about music with my partners.
 <hr>
 
 ### 💻Projects
-You can see them in my [repository](https://github.com/scarletrye?tab=repositories), i hope you like them :) 
+You can see them in my [repository](https://github.com/scarletrye?tab=repositories), I hope you find them interesting/helpful :) 
 
-**THANKS U FOR VISIT MY PROFILE!**
+**THANKS FOR ~~stalking~~ CHECKING OUT MY PROFILE!**
