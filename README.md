@@ -17,7 +17,7 @@ Technologies I've been working with.
 <hr>
 
 ### 🧠What am I learning?
-Currently, I'm in an internship where i'm learning about these technologies.
+During my internship, I had the opportunity to work with these technologies.
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=angular,mongodb,tailwind,ts" />
